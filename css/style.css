@@ -1,0 +1,72 @@
+/**************/
+/* Custom CSS */
+/**************/
+
+body{
+	background-color: #110A37;
+	color: #3CE6C5;
+	font-weight: 600;
+	font-size: 20px;
+}
+
+canvas {
+	width: 100%;
+}
+
+h4 {
+	color: #3CE6C5;
+	font-weight: 600;
+	font-size:30px;
+	text-transform: uppercase;
+}
+
+.stats-holder{
+	float: left;
+  padding: 15px 15px 0px 0px;
+  color: #fff;
+  display: block;
+  font-weight: 700;
+}
+
+.stats-holder span{
+	font-size: 65px;
+	font-weight: 700;
+}
+
+#goodDays {
+	color: #217F6D;
+	font-weight: 500;
+	font-size: 60px;
+}
+
+#badDays {
+	color: #32BFA4;
+	font-weight: 500;
+}
+
+.clear-fix {
+	clear: both;
+}
+
+/* LEGEND CSS */
+
+ul {
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+
+li span{
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  border-radius: 50%;
+  margin-right: 10px;	
+}
+
+.legend{
+	float: right;
+	color: #fff;
+}
+
+/* LEGEND CSS */
